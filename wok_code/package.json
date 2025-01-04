@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "less": "^3.0.4",
+    "less": "^3.13.1",
     "less-plugin-clean-css": "^1.5.1"
   }
 }
